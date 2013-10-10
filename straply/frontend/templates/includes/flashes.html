@@ -1,0 +1,13 @@
+{% with messages = get_flashed_messages(with_categories=true) %}
+	{% if messages %} 
+		{% for category, message in messages %}
+		<div class="alert alert-block alert-{{ category }} fade in flash">
+		    <button type="button" class="close fui-cross close-alert"></button>
+		    {% if message.split('-')[0] %}
+		    <h3>{{ message.split(' - ')[0] }}</h3>
+		    {% endif %}
+		    <p>{{ message.split(' - ')[1] }}</p>
+		</div>
+		{% endfor %}
+	{% endif %}
+{% endwith %}

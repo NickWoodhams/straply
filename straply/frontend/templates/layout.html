@@ -1,0 +1,40 @@
+{% from "macros/forms.html" import form_field, form_fields, form_field_bare, form_button %}
+{% from "macros/nav.html" import nav_li_for %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+    <title>Roxor title</title>
+
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/select2/select2.css" rel="stylesheet">
+    <link href="/static/select2/select2-bootstrap.css" rel="stylesheet">
+    <link href="/static/css/styles.css" rel="stylesheet">
+    <link href="/static/ModernUIIconsSocial/style.css" rel="stylesheet" >
+</head>
+
+<body>
+
+    {% include 'includes/navbar.html' %}
+    {% include 'includes/flashes.html' %}
+    {% block body %}
+        <div class="container">Add some content here, sailor</div>
+    {% endblock body %}
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/static/js/jquery-2.0.3.min.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/select2/select2.js"></script>
+    {% block javascript %} {% endblock %}
+</body>
+
+</html>

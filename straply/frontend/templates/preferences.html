@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+{% block body %}
+	<div class="container">
+		<div class="form-container">
+			<h1>Account Preferences</h1>
+			{{ form_fields(form, button="Save", button_class="btn btn-primary") }}
+			<hr>
+			<a class="" href="/change">Change password</a>
+		</div>
+
+	</div>
+{% endblock %}

@@ -1,0 +1,286 @@
+@font-face {
+	font-family: 'Modern-UI-Icons---Social';
+	src:url('fonts/Modern-UI-Icons---Social.eot');
+	src:url('fonts/Modern-UI-Icons---Social.eot?#iefix') format('embedded-opentype'),
+		url('fonts/Modern-UI-Icons---Social.woff') format('woff'),
+		url('fonts/Modern-UI-Icons---Social.ttf') format('truetype'),
+		url('fonts/Modern-UI-Icons---Social.svg#Modern-UI-Icons---Social') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'Modern-UI-Icons---Social';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-social-"] {
+*/
+.icon-social-aim, .icon-social-aim-variant, .icon-social-amazon-appstore, .icon-social-amazon, .icon-social-android, .icon-social-apple, .icon-social-apple-mobileme, .icon-social-apple-appstore, .icon-social-appnet, .icon-social-artcom, .icon-social-arto, .icon-social-aws, .icon-social-baidu, .icon-social-basecamp, .icon-social-bebo, .icon-social-behance, .icon-social-blogger, .icon-social-cloudapp, .icon-social-coding4fun, .icon-social-deviantart, .icon-social-digg, .icon-social-digg-variant, .icon-social-disqus, .icon-social-dribbble, .icon-social-dropbox-download, .icon-social-dropbox, .icon-social-dropbox-upload, .icon-social-drupal, .icon-social-dnd, .icon-social-engadget, .icon-social-etsy, .icon-social-evernote, .icon-social-facebook-heartbreak, .icon-social-facebook-heart, .icon-social-facebook, .icon-social-facebook-variant, .icon-social-foursquare, .icon-social-gdgt, .icon-social-github-octocat-solid, .icon-social-github, .icon-social-google, .icon-social-google-plus, .icon-social-grooveshark, .icon-social-indiegogo, .icon-social-jira, .icon-social-kickstarter, .icon-social-lastfm, .icon-social-linkedin, .icon-social-linkedin-variant, .icon-social-microsoft, .icon-social-mono, .icon-social-openid, .icon-social-picasa, .icon-social-pinterest, .icon-social-playstation, .icon-social-rdio, .icon-social-reddit, .icon-social-sharethis, .icon-social-share-open, .icon-social-share, .icon-social-skype, .icon-social-slashdot, .icon-social-soundcloud, .icon-social-spotify, .icon-social-stackoverflow, .icon-social-theverge, .icon-social-twitter, .icon-social-twitter-retweet, .icon-social-tumblr, .icon-social-uservoice, .icon-social-vimeo, .icon-social-wikipedia, .icon-social-windows, .icon-social-wordpress, .icon-social-wordpress-variant, .icon-social-xbox, .icon-social-yahoo, .icon-social-ycombinator, .icon-social-yelp, .icon-social-youtube, .icon-social-youtube-play, .icon-social-zappos {
+	font-family: 'Modern-UI-Icons---Social';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-social-aim:before {
+	content: "\e000";
+}
+.icon-social-aim-variant:before {
+	content: "\e001";
+}
+.icon-social-amazon-appstore:before {
+	content: "\e002";
+}
+.icon-social-amazon:before {
+	content: "\e003";
+}
+.icon-social-android:before {
+	content: "\e004";
+}
+.icon-social-apple:before {
+	content: "\e005";
+}
+.icon-social-apple-mobileme:before {
+	content: "\e006";
+}
+.icon-social-apple-appstore:before {
+	content: "\e007";
+}
+.icon-social-appnet:before {
+	content: "\e008";
+}
+.icon-social-artcom:before {
+	content: "\e009";
+}
+.icon-social-arto:before {
+	content: "\e00a";
+}
+.icon-social-aws:before {
+	content: "\e00b";
+}
+.icon-social-baidu:before {
+	content: "\e00c";
+}
+.icon-social-basecamp:before {
+	content: "\e00d";
+}
+.icon-social-bebo:before {
+	content: "\e00e";
+}
+.icon-social-behance:before {
+	content: "\e00f";
+}
+.icon-social-blogger:before {
+	content: "\e010";
+}
+.icon-social-cloudapp:before {
+	content: "\e011";
+}
+.icon-social-coding4fun:before {
+	content: "\e013";
+}
+.icon-social-deviantart:before {
+	content: "\e014";
+}
+.icon-social-digg:before {
+	content: "\e015";
+}
+.icon-social-digg-variant:before {
+	content: "\e016";
+}
+.icon-social-disqus:before {
+	content: "\e017";
+}
+.icon-social-dribbble:before {
+	content: "\e018";
+}
+.icon-social-dropbox-download:before {
+	content: "\e019";
+}
+.icon-social-dropbox:before {
+	content: "\e01a";
+}
+.icon-social-dropbox-upload:before {
+	content: "\e01b";
+}
+.icon-social-drupal:before {
+	content: "\e01c";
+}
+.icon-social-dnd:before {
+	content: "\e01d";
+}
+.icon-social-engadget:before {
+	content: "\e01e";
+}
+.icon-social-etsy:before {
+	content: "\e01f";
+}
+.icon-social-evernote:before {
+	content: "\e020";
+}
+.icon-social-facebook-heartbreak:before {
+	content: "\e021";
+}
+.icon-social-facebook-heart:before {
+	content: "\e022";
+}
+.icon-social-facebook:before {
+	content: "\e023";
+}
+.icon-social-facebook-variant:before {
+	content: "\e024";
+}
+.icon-social-foursquare:before {
+	content: "\e025";
+}
+.icon-social-gdgt:before {
+	content: "\e027";
+}
+.icon-social-github-octocat-solid:before {
+	content: "\e028";
+}
+.icon-social-github:before {
+	content: "\e029";
+}
+.icon-social-google:before {
+	content: "\e02a";
+}
+.icon-social-google-plus:before {
+	content: "\e02b";
+}
+.icon-social-grooveshark:before {
+	content: "\e02c";
+}
+.icon-social-indiegogo:before {
+	content: "\e02d";
+}
+.icon-social-jira:before {
+	content: "\e02e";
+}
+.icon-social-kickstarter:before {
+	content: "\e02f";
+}
+.icon-social-lastfm:before {
+	content: "\e030";
+}
+.icon-social-linkedin:before {
+	content: "\e031";
+}
+.icon-social-linkedin-variant:before {
+	content: "\e032";
+}
+.icon-social-microsoft:before {
+	content: "\e033";
+}
+.icon-social-mono:before {
+	content: "\e034";
+}
+.icon-social-openid:before {
+	content: "\e035";
+}
+.icon-social-picasa:before {
+	content: "\e036";
+}
+.icon-social-pinterest:before {
+	content: "\e037";
+}
+.icon-social-playstation:before {
+	content: "\e038";
+}
+.icon-social-rdio:before {
+	content: "\e039";
+}
+.icon-social-reddit:before {
+	content: "\e03a";
+}
+.icon-social-sharethis:before {
+	content: "\e03b";
+}
+.icon-social-share-open:before {
+	content: "\e03c";
+}
+.icon-social-share:before {
+	content: "\e03e";
+}
+.icon-social-skype:before {
+	content: "\e03f";
+}
+.icon-social-slashdot:before {
+	content: "\e040";
+}
+.icon-social-soundcloud:before {
+	content: "\e041";
+}
+.icon-social-spotify:before {
+	content: "\e042";
+}
+.icon-social-stackoverflow:before {
+	content: "\e043";
+}
+.icon-social-theverge:before {
+	content: "\e044";
+}
+.icon-social-twitter:before {
+	content: "\e045";
+}
+.icon-social-twitter-retweet:before {
+	content: "\e026";
+}
+.icon-social-tumblr:before {
+	content: "\e046";
+}
+.icon-social-uservoice:before {
+	content: "\e047";
+}
+.icon-social-vimeo:before {
+	content: "\e048";
+}
+.icon-social-wikipedia:before {
+	content: "\e049";
+}
+.icon-social-windows:before {
+	content: "\e04a";
+}
+.icon-social-wordpress:before {
+	content: "\e04b";
+}
+.icon-social-wordpress-variant:before {
+	content: "\e012";
+}
+.icon-social-xbox:before {
+	content: "\e04c";
+}
+.icon-social-yahoo:before {
+	content: "\e04d";
+}
+.icon-social-ycombinator:before {
+	content: "\e04e";
+}
+.icon-social-yelp:before {
+	content: "\e04f";
+}
+.icon-social-youtube:before {
+	content: "\e050";
+}
+.icon-social-youtube-play:before {
+	content: "\e03d";
+}
+.icon-social-zappos:before {
+	content: "\e051";
+}
