@@ -13,19 +13,18 @@ from raven.contrib.flask import Sentry
 
 from .. import factory
 from ..core import db
-from ..models import *
+from ..models import Role, User
 from ..helpers import gravatar
-
 
 
 def create_app(settings_override=None):
     """Returns the straply dashboard application instance"""
     app = factory.create_app(__name__, __path__, settings_override)
-    sentry = Sentry(app)
+    Sentry(app)
     admin = Admin(app)
     admin.register(User, session=db.session)
     admin.register(Role, session=db.session)
-    #register some custom app filters
+    # Register some custom app filters
     app.jinja_env.filters['gravatar'] = gravatar
     return app
 

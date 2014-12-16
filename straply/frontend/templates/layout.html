@@ -11,13 +11,13 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
 
-    <title>Roxor title</title>
+    <title>Page Title Goes Here</title>
 
-    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/static/select2/select2.css" rel="stylesheet">
-    <link href="/static/select2/select2-bootstrap.css" rel="stylesheet">
+    <link href="/static/bower/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/bower/select2/select2.css" rel="stylesheet">
+    <link href="/static/bower/select2/select2-bootstrap.css" rel="stylesheet">
+    <link href="/static/bower/ionicons/css/ionicons.min.css" rel="stylesheet">
     <link href="/static/css/styles.css" rel="stylesheet">
-    <link href="/static/ModernUIIconsSocial/style.css" rel="stylesheet" >
 </head>
 
 <body>
@@ -25,15 +25,15 @@
     {% include 'includes/navbar.html' %}
     {% include 'includes/flashes.html' %}
     {% block body %}
-        <div class="container">Add some content here, sailor</div>
+        <div class="container">This is your body container.</div>
     {% endblock body %}
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/static/js/jquery-2.0.3.min.js"></script>
-    <script src="/static/js/bootstrap.min.js"></script>
-    <script src="/static/select2/select2.js"></script>
+    <script src="/static/bower/jquery/dist/jquery.min.js"></script>
+    <script src="/static/bower/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/static/bower/select2/select2.min.js"></script>
     {% block javascript %} {% endblock %}
 </body>
 

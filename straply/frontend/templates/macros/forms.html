@@ -5,23 +5,23 @@
     {%- endif %}
     </label>
 {% endmacro %}
- 
+
 
 {%- macro form_field_description(field) -%}
     {% if field.description %}
-        <span class="descr">{{ field.description }}</span>
+        <span class="help-block">{{ field.description }}</span>
     {% endif %}
 {%- endmacro -%}
- 
+
 
 {%- macro form_field_errors(field) -%}
     {% if field.errors %}
         {%- for error in field.errors -%}
-        <p class="help-block">{{ error }}</span>
+        <p class="help-block">{{ error }}</p>
         {%- endfor -%}
     {% endif %}
 {%- endmacro -%}
- 
+
 
 {%- macro form_field_radio(field) -%}
     <div class="radio">
@@ -35,7 +35,7 @@
 
 
 {%- macro form_field_checkbox(field) -%}
-    <div class="checkbox" id="{{field.name}}_container">
+    <div class="checkbox" id="{{field.name}}-container">
         <label>
             {{- field.label.text -}}
             {{ field(**kwargs) }}
@@ -45,13 +45,38 @@
     </div>
 {%- endmacro -%}
 
- 
-{%- macro form_button(button_title="Submit", button_class="") -%}
-    <button type="submit" class="btn btn-lg {{ button_class }}">{{ button_title }}</button>
-{%- endmacro -%}
- 
 
-{%- macro form_field(field) -%}
+{%- macro input_group_bare(field, addon_before=False, addon_after=False) -%}
+    <div class="input-group" id="{{field.name}}-container">
+        {% if addon_before %}
+            <span class="input-group-addon">{{ addon_before }}</span>
+        {% endif %}
+        {{ field(class="form-control", **kwargs) }}
+        {% if addon_after %}
+            <span class="input-group-addon">{{ addon_after }}</span>
+        {% endif %}
+    </div>
+{%- endmacro -%}
+
+
+{%- macro input_group(field, addon_before=False, addon_after=False) -%}
+    <div class="form-group{% if field.errors %} has-error{% endif %}">
+        {{ form_field_label(field) }}
+        {{ input_group_bare(field, addon_before, addon_after) }}
+        {% if field.label.text|length %}
+            {{ form_field_description(field) }}
+        {% endif %}
+        {{ form_field_errors(field) }}
+    </div>
+{%- endmacro -%}
+
+
+{%- macro form_button(button_title="Submit", button_class="") -%}
+    <button type="submit" class="btn {{ button_class }}">{{ button_title|safe }}</button>
+{%- endmacro -%}
+
+
+{%- macro form_field(field, disable_label=False) -%}
     {% if field.type == 'HiddenField' or field.type == 'CSRFTokenField' %}
         {% if field.value != None %}
             {{ field() }}
@@ -62,8 +87,9 @@
                 {{ form_field_checkbox(field, **kwargs) }}
             {% else%}
 
-                {{ form_field_label(field) }}
-
+                {% if not disable_label %}
+                    {{ form_field_label(field) }}
+                {% endif %}
                 {% if field.type == 'RadioField' %}
                     {{ form_field_radio(field(class='radio-group', **kwargs)) }}
                 {% else %}
@@ -75,11 +101,11 @@
                 {{ form_field_errors(field) }}
             {% endif %}
         </div>
-    {% endif %}   
+    {% endif %}
 {%- endmacro -%}
- 
 
-{%- macro form_field_bare(field) -%}                
+
+{%- macro form_field_bare(field) -%}
     {% if field.type == 'RadioField' %}
         {{ field(class='radio-group', **kwargs) }}
     {% else %}
@@ -89,8 +115,14 @@
 {%- endmacro -%}
 
 
-{%- macro form_fields(fields, class='', legend='', method="POST", name='', button="Submit", button_class="") -%}
-<form name="{{name}}" id="{{name}}" class="{{class}}" action="{{action}}" method="{{method}}">
+{%- macro form_fields(fields, class='', legend='', action='', method="POST", name='', button="Submit", button_class="") -%}
+<form
+    {% if name %}name="{{name}}"{% endif %}
+    {% if name %}id="{{name}}"{% endif %}
+    {% if class %}class="{{class}}"{% endif %}
+    {% if action %}action="{{action}}"{% endif %}
+    {% if method %}method="{{method}}"{% endif %}
+>
     {% for field in fields %}
         {{ form_field(field) }}
     {% endfor %}
