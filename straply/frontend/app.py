@@ -1,4 +1,4 @@
- # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
     Straply
     ~~~~~~~~
@@ -8,7 +8,6 @@
 
 from flask import Blueprint, render_template, flash, redirect, url_for
 from flask_security import login_required, current_user, login_user, logout_user
-from flask_security.utils import login_user
 
 from . import route
 from ..core import db
