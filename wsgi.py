@@ -15,17 +15,17 @@ from subprocess import Popen, PIPE, STDOUT
 from werkzeug.serving import run_simple
 from werkzeug.wsgi import DispatcherMiddleware
 
-from straply import api, frontend
+from straply import api, frontend, restless
 
 application = DispatcherMiddleware(frontend.create_app(), {
-    '/api': api.create_app()
+    '/api': api.create_app(),
+    '/restless': restless.create_app()
 })
 
 if __name__ == "__main__":
 
     # Preform Database Upgrades Automatically :)
     command = '''
-        alembic revision --autogenerate
         alembic upgrade head
     '''
     Popen(command, shell=True)
