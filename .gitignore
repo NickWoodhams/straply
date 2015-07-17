@@ -22,4 +22,3 @@ nosetests.xml
 venv
 .DS_Store
 settings.py
-create_database.sh

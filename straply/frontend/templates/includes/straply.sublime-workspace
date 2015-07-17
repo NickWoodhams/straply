@@ -1,0 +1,3255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"STRIE",
+				"STRIPE_PUBLIC_API_KEY"
+			],
+			[
+				"can",
+				"can_receive"
+			],
+			[
+				"statu",
+				"status_code"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"user_",
+				"user_cost"
+			],
+			[
+				"Up",
+				"UPLOAD_FOLDER"
+			],
+			[
+				"que",
+				"queued"
+			],
+			[
+				"json",
+				"json_resp"
+			],
+			[
+				"phax",
+				"phax_id"
+			],
+			[
+				"recip",
+				"recipient_fax"
+			],
+			[
+				"rece",
+				"recieved_faxes"
+			],
+			[
+				"curr",
+				"current_user"
+			],
+			[
+				"rec",
+				"recipient_fax"
+			],
+			[
+				"validate",
+				"validate_on_submit"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"Ex",
+				"ExtendedRegisterForm"
+			],
+			[
+				"Priv",
+				"PrivateCloudSubdomains"
+			],
+			[
+				"priv",
+				"private_cloud"
+			],
+			[
+				"privateloud",
+				"privateCloudApp"
+			],
+			[
+				"prviate_",
+				"private_cloud_subdomains"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"private_",
+				"private_clouds"
+			],
+			[
+				"CON",
+				"CONSUMER_SECRET"
+			],
+			[
+				"indico",
+				"indicoPurple"
+			],
+			[
+				"proxi",
+				"proxima-nova-600"
+			],
+			[
+				"clear",
+				"clear_cache"
+			],
+			[
+				"intercom",
+				"intercom_user"
+			],
+			[
+				"inter",
+				"intercom_user"
+			],
+			[
+				"rsa",
+				"rsave_resp"
+			],
+			[
+				"dash",
+				"dashboard_admin"
+			],
+			[
+				"filter",
+				"filter_by"
+			],
+			[
+				"interc",
+				"intercom_users"
+			],
+			[
+				"admin",
+				"adminController"
+			],
+			[
+				"last_log",
+				"last_login_at"
+			],
+			[
+				"sent",
+				"sentiment"
+			],
+			[
+				"this",
+				"this_month"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"java",
+				"javascript"
+			],
+			[
+				"filt",
+				"filter_by"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"change",
+				"change_password_form"
+			],
+			[
+				"flask",
+				"flask_security"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"outline",
+				"outline-purple"
+			],
+			[
+				"out",
+				"outline-purple"
+			],
+			[
+				"pos",
+				"pos:s	position:static"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"is_a",
+				"is_authenticated"
+			],
+			[
+				"private",
+				"private_cloud"
+			],
+			[
+				"deplo",
+				"deployNow"
+			],
+			[
+				"qu",
+				"quarter_price"
+			],
+			[
+				"min",
+				"min_price"
+			],
+			[
+				"new",
+				"new_prices"
+			],
+			[
+				"catego",
+				"categoryId"
+			],
+			[
+				"msg",
+				"msg_tail"
+			],
+			[
+				"shorten",
+				"shorten_url"
+			],
+			[
+				"short",
+				"short_url"
+			],
+			[
+				"sms",
+				"send_sms"
+			],
+			[
+				"items_foun",
+				"items_found"
+			],
+			[
+				"cate",
+				"categoryId"
+			],
+			[
+				"categ",
+				"categoryId"
+			],
+			[
+				"desc",
+				"descriptionsearch"
+			],
+			[
+				"trigg",
+				"trigger_price"
+			],
+			[
+				"tri",
+				"trigger_price"
+			],
+			[
+				"toggl",
+				"toggle_auctions"
+			],
+			[
+				"Min",
+				"MinPrice"
+			],
+			[
+				"sub",
+				"searchButton"
+			],
+			[
+				"k",
+				"keywords-hidden"
+			],
+			[
+				"cho",
+				"chosen_categories"
+			],
+			[
+				"Max",
+				"MaxPrice"
+			],
+			[
+				"addr",
+				"addressUserForm"
+			],
+			[
+				"vier",
+				"verify_password"
+			],
+			[
+				"login",
+				"loginUserForm"
+			],
+			[
+				"Bool",
+				"BooleanField"
+			],
+			[
+				"TExt",
+				"TextField"
+			],
+			[
+				"Text",
+				"TextField"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"Sign",
+				"SignUpForm"
+			],
+			[
+				"Form",
+				"LoginForm"
+			],
+			[
+				"sendgri",
+				"sendgrid_password"
+			],
+			[
+				"sendgrid",
+				"sendgrid_username"
+			],
+			[
+				"user_bo",
+				"user_board_id"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"last",
+				"last_width"
+			],
+			[
+				"board_pos",
+				"board_pos_x"
+			],
+			[
+				"space_on",
+				"space_on_right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ps",
+				"pseudo"
+			],
+			[
+				"addition",
+				"additional_content"
+			],
+			[
+				"getPoll",
+				"getPollInfo"
+			],
+			[
+				"rgba",
+				"rgba(255,255,255"
+			],
+			[
+				"light",
+				"lighten"
+			],
+			[
+				"add",
+				"addToQueue"
+			],
+			[
+				"path_",
+				"path_mp3"
+			],
+			[
+				"API",
+				"APIURL"
+			],
+			[
+				"com",
+				"community_protocol_keys"
+			],
+			[
+				"communit",
+				"community_id"
+			],
+			[
+				"comm",
+				"community_info"
+			],
+			[
+				"communi",
+				"community_info"
+			],
+			[
+				"ex",
+				"extensions"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"natur",
+				"naturalWidth"
+			],
+			[
+				"save",
+				"saveLicense"
+			],
+			[
+				"lice",
+				"License"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"emo",
+				"emoji"
+			],
+			[
+				"trans",
+				"translate_key"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"community",
+				"community_protocol_keys"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"nat",
+				"naturalWidth"
+			],
+			[
+				"last_",
+				"last_message_actor"
+			],
+			[
+				"pro",
+				"property_bedrooms"
+			],
+			[
+				"property",
+				"property_address"
+			],
+			[
+				"prop",
+				"property_address"
+			],
+			[
+				"firm",
+				"firm_email"
+			],
+			[
+				"firm_",
+				"firm_phone"
+			],
+			[
+				"Dup",
+				"DuplicatesPipeline"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"prof",
+				"profile_photo"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"poll",
+				"poll_options"
+			],
+			[
+				"topi",
+				"topic_id"
+			],
+			[
+				"votes",
+				"votesCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/settings.py",
+			"settings":
+			{
+				"buffer_size": 1325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "navbar.html",
+			"settings":
+			{
+				"buffer_size": 1647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/frontend/templates/layout.html",
+			"settings":
+			{
+				"buffer_size": 1875,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/users/forms.py",
+			"settings":
+			{
+				"buffer_size": 2494,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/frontend/templates/security/forgot_password.html",
+			"settings":
+			{
+				"buffer_size": 978,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/frontend/templates/preferences.html",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "flashes.html",
+			"settings":
+			{
+				"buffer_size": 608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/frontend/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/frontend/static/css/styles.less",
+			"settings":
+			{
+				"buffer_size": 1209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/frontend/static/bower/bootstrap/less/responsive-utilities.less",
+			"settings":
+			{
+				"buffer_size": 4262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nick/Sites/dev/straply/straply/frontend/static/js/straply.js",
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Compass/Compass.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Compass/Compass.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "prett",
+		"selected_items":
+		[
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package install ",
+				"Package Control: Install Package"
+			],
+			[
+				"prettt",
+				"Pretty JSON: Validate"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"file move",
+				"File: Move"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"prevew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"move ",
+				"File: Move"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax: nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"sytnax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"trimmer",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"trimm",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"balan",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"balance",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"synta",
+				"Set Syntax: HTML"
+			],
+			[
+				"synx bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"RENA",
+				"File: Rename"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package een",
+				"Package Control: Enable Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"package setti",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package settin",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package settings",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package setting",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"ngx",
+				"Set Syntax: nginx"
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"file del",
+				"File: Delete"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"snytax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"dee",
+				"File: Delete"
+			],
+			[
+				"dupic",
+				"File: Duplicate"
+			],
+			[
+				"rename file",
+				"ANF: Rename File"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"retty json",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"dupc",
+				"File: Duplicate"
+			],
+			[
+				"bookm",
+				"Bookmarks: Toggle"
+			],
+			[
+				"prett j",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsonpr",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html pre",
+				"HTMLPrettify"
+			],
+			[
+				"prett json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"linter settings",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"package enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"package disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"prefer",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"live re",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"file",
+				"File: Move"
+			],
+			[
+				"ducp",
+				"File: Duplicate"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"format ",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"package en",
+				"Package Control: Enable Package"
+			],
+			[
+				"package up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"package enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"livere ena",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"wordp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"diff",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"dupi",
+				"File: Duplicate"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"file dup",
+				"File: Duplicate"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"file du",
+				"File: Duplicate"
+			],
+			[
+				"file d",
+				"File: Duplicate"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"package enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"jsoni",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pubnub",
+				"Preferences: SublimeLinter Key Bindings – User"
+			],
+			[
+				"prettjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prettyjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverea",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"snippet",
+				"Snippet: bs3-alert"
+			],
+			[
+				"angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"snippet: ",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"snippet navba",
+				"Snippet: bs3-navbar-inverse"
+			],
+			[
+				"snippet alert",
+				"Snippet: bs3-alert"
+			],
+			[
+				"package insat",
+				"Package Control: Install Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 374.0,
+		"history":
+		[
+			"COMPASS=`which compass`;",
+			"echo $PATH",
+			"setting",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'https://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nick/Sites/dev/straply",
+		"/Users/nick/Sites/dev/straply/straply",
+		"/Users/nick/Sites/dev/straply/straply/frontend",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/security"
+	],
+	"file_history":
+	[
+		"/Users/nick/Sites/dev/straply/straply/frontend/static/css/proxima-minimal.less",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/macros/forms.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/static/css/helpers.less",
+		"/Users/nick/Sites/dev/straply/straply/frontend/static/bower/bootstrap/less/theme.less",
+		"/Users/nick/Sites/dev/straply/straply/frontend/static/css/proxima.less",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/security/login_user.html",
+		"/Users/nick/Sites/dev/straply/populate_settings.py",
+		"/Users/nick/Sites/dev/straply/README.md",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/layout.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/security/_macros.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/security/_menu.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/index.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/security/forgot_password.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/security/register_user.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/security/reset_password.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/app.py",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/template.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/dashboard.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/__init__.py",
+		"/Users/nick/Sites/dev/straply/straply/frontend/static/bower/bootstrap/less/variables.less",
+		"/Users/nick/Sites/dev/straply/straply/frontend/static/css/gotham.less",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/includes/footer.html",
+		"/Users/nick/Sites/dev/straply/straply/helpers.py",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/security/layout.html",
+		"/Users/nick/Sites/dev/straply/straply/frontend/templates/includes/navbar.html",
+		"/Users/nick/Sites/dev/straply/create_database.sh",
+		"/Users/nick/Sites/dev/straply/straply/settings.py",
+		"/Users/nick/Sites/dev/straply/create_database.sh.example",
+		"/usr/local/etc/nginx/sites-available/amino.local",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/nick/Downloads/clippy-downloads/grab.sh",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-_su34d/settings.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/settings.py.example",
+		"/Users/nick/.zshrc",
+		"/Users/nick/Sites/dev/faxy.co/straply/settings.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/users/models.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/api/users.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/preferences.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/app.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/layout.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/api/faxes.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/template.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/pricing.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/index.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/security/register_user.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/security/login_user.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/faxes/models.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/api/__init__.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/static/js/faxy.js",
+		"/Users/nick/Sites/dev/faxy.co/straply/helpers.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/__init__.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/faxes/forms.py",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nick/Sites/dev/faxy.co/straply/users/forms.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/core.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/admin/views.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/forms.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/models.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/faxes/__init__.py",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/includes/navbar.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/templates/includes/footer.html",
+		"/Users/nick/Sites/dev/faxy.co/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html",
+		"/Users/nick/Sites/dev/faxy.co/straply/frontend/static/js/scripts.js",
+		"/Users/nick/Sites/dev/email-verify/.git/config",
+		"/Users/nick/Sites/dev/faxy.co/README.md",
+		"/Users/nick/Sites/dev/faxy.co/.git/config",
+		"/Users/nick/Desktop/Microsoft Office for Mac 2016 v15.11.2/MSO15.11.2Patch",
+		"/Users/nick/Dropbox/Projects/Hackintosh/create_clover_efi_single_drive.sh",
+		"/Users/nick/Sites/dev/ghost/content/themes/nickwoodhams/assets/js/index.js",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-zuljql/nicholaswoodhams.com.conf",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-ccc7sc/nickwoodhams.com.conf",
+		"/Users/nick/Desktop/AMD.10.10.4/AMDSupport.kext/Contents/version.plist",
+		"/Users/nick/Desktop/AMD.10.10.4/AMD7000Controller.kext/Contents/version.plist",
+		"/Users/nick/Desktop/AMD.10.10.4/AMD7000Controller.kext/Contents/Info.plist",
+		"/Users/nick/Desktop/AMD.10.10.4/AMDSupport.kext/Contents/Info.plist",
+		"/Users/nick/Desktop/AMD.10.10.4/AMDRadeonX4000.kext/Contents/version.plist",
+		"/Users/nick/Desktop/AMD.10.10.4/AMDRadeonX4000.kext/Contents/PkgInfo",
+		"/Users/nick/Desktop/AMD.10.10.4/AMDRadeonX4000.kext/Contents/Info.plist",
+		"/Users/nick/Desktop/AMD.10.10.4/AMDFramebuffer.kext/Contents/version.plist",
+		"/Users/nick/Desktop/AMD.10.10.4/AMDFramebuffer.kext/Contents/Info.plist",
+		"/Users/nick/Desktop/AMD.10.10.4/AMDRadeonX4000.kext/Contents/MacOS/AMDRadeonX4000",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-uryycl/main.cf",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-i8xopp/main.cf.dist",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-tcp2ae/virtual.db",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-pbz68j/mailname",
+		"/Users/nick/Sites/work/indico.io/indico/settings.py",
+		"/Users/nick/Sites/work/indico.io/update_intercom_users.py",
+		"/Users/nick/Sites/work/indico.io/get_intercom_users.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/index.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/dashboard/index.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/includes/demo/include-demo.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/demo.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/static/sass/app/social-demo.scss",
+		"/Users/nick/Sites/work/indico.io/indico/users/models.py",
+		"/Users/nick/Sites/work/indico.io/indico/api/users.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/static/js/tweets/tweetController.js",
+		"/Users/nick/Sites/work/indico.io/indico/core.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/__init__.py",
+		"/Users/nick/Sites/work/indico.io/indico/factory.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/social/twitter-analysis.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/social/twitter.html",
+		"/Users/nick/Sites/work/indico.io/indico/users/forms.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/social.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/layout.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/static/bower/jquery/src/core/init.js",
+		"/Users/nick/Sites/work/indico.io/indico/forms.py",
+		"/Users/nick/Sites/work/indico.io/indico/helpers.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/static/sass/site/site.scss",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/static/sass/app/_app.scss",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/static/sass/site/_pages.scss",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/social/user-timeline.md",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/static/js/homepageControllers.js",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/security/register_user.html",
+		"/Users/nick/Sites/work/indico.io/indico/api/__init__.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/pricing.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/dashboard.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/security/login_user.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/layout-app.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/dashboard/admin/private-cloud.html",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/includes/sidebar.html",
+		"/Users/nick/Sites/work/indico.io/indico/settings.py.example",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-6z33dg/settings.py",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-0jm5st/redis.staging.conf",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-kxlj8y/redis.conf",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-ww2kzw/indico_redis.conf",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-myx3wi/indico_redis_staging.conf",
+		"/var/folders/g5/yq9yq_1d2tl9g6q65vwdxjrc0000gn/T/rsub-k1q7ek/settings.py",
+		"/Users/nick/Sites/work/indico.io/indico/frontend/templates/includes/flashes.html"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 193.0,
+		"where_history":
+		[
+			"",
+			"/Users/nick/Sites/work/indico.io/indico/frontend/templates",
+			"",
+			"/Users/nick/Sites/work/indico.io/indico/frontend/templates/dashboard",
+			"",
+			"/Users/nick/Sites/work/indico.io/indico/frontend/templates",
+			"",
+			"/Users/nick/Sites/client/indico/indico-users-deploy/indico/frontend/templates/security",
+			"",
+			"<open folders>",
+			"",
+			"-venv/*",
+			"-venv",
+			"",
+			"/Users/nick/Sites/client/rally/app/views",
+			"",
+			"/Users/nick/Sites/client/rally/app/assets/stylesheets",
+			"app,/Users/nick/Sites/client/rally/app/assets/stylesheets",
+			"",
+			"/Users/nick/Sites/apix/devrank/venv/lib/python2.7/site-packages/flask_admin",
+			"",
+			"*.less",
+			"",
+			"/Users/nick/Sites/apix/theworkmob2/straply/frontend/templates/admin",
+			"",
+			"/Users/nick/Sites/apix/theworkmob2/straply/frontend/templates/admin",
+			"",
+			"*.less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			"\"",
+			"200px",
+			"-lg ",
+			"button_class",
+			"button",
+			"80px",
+			"form_field",
+			"padding",
+			"-xs",
+			"xs",
+			"top",
+			"id_generator(24)",
+			"localhost",
+			"/static/img/screenshots/",
+			"Areacode",
+			"areacode",
+			"numbers",
+			"list_numbers",
+			"receive",
+			"dashboardAppControllers",
+			"token",
+			"user",
+			"get_stripe_customer_id",
+			"save_stripe_customer_id",
+			"pass",
+			"secret_key",
+			"hero",
+			"border-bottom",
+			"footer",
+			"user",
+			"fax_info['num_pages'] * 0.15",
+			"cost",
+			"<th width",
+			"<th width=",
+			"<th>",
+			"<th width",
+			"recieved",
+			"received_faxes",
+			"recieved_faxes",
+			"filename",
+			"pprint",
+			"file.filename",
+			"sent",
+			"send",
+			"showErrors",
+			"<td>",
+			"#",
+			"value",
+			"JSON.stringify(Blob)",
+			"choose",
+			"users",
+			"            <div class=\"balance centered\">\n                <h3>My Balance</h3>\n                <p>$10.00</p>\n                <p class=\"small\"><a href=\"#\">Recharge</a></p>\n            </div>\n",
+			"sendFaxForm",
+			"pricing",
+			" | ",
+			"unlist",
+			"250x",
+			"<img src=\"http://placehold.it/250x250\"",
+			"\"col-md-6\">",
+			"col-md-6",
+			"(limited time)",
+			"<ul>",
+			"EEE",
+			"top",
+			"col-md-6\"><",
+			"class=\"small\">",
+			"index",
+			"Email Finder",
+			"disk4",
+			"/Volumes/OS\\ X\\ Base\\ System/Install\\ OS\\ X\\ Yosemite\\ Beta.app",
+			"\"name\":",
+			"/Volumes/OS\\ X\\ Base\\ System/Install\\ OS\\ X\\ Yosemite\\ Beta.app",
+			"\">",
+			"href=\"",
+			"meta",
+			"meta_title",
+			"server_name",
+			"nickwoodhams",
+			"server",
+			"isk0",
+			"may",
+			"indico.io",
+			"u'",
+			"demo",
+			"label",
+			"getfullyear",
+			"push",
+			"console",
+			"lodash",
+			"new Date(d)",
+			"run()",
+			".run(",
+			"r.ISO8601(",
+			"r.ISO8601",
+			"y(",
+			"value",
+			"security",
+			" return",
+			"intercom",
+			"date",
+			"length",
+			"data",
+			"parseDate",
+			"isoformat",
+			"print",
+			"JsonSerializer",
+			"date",
+			"session",
+			"grab_tweets",
+			"screen_name",
+			"items()",
+			"pprint",
+			"print \"",
+			"print '",
+			"time",
+			"grab_tweets",
+			"get-tweets",
+			"twitter",
+			"navbar",
+			"top",
+			"    ",
+			"   ",
+			"  ",
+			"twitter_analyze",
+			"twitter_a",
+			"6380",
+			"staging"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"flask_oauthlib",
+			"careers@indico.io",
+			"{{ current_user.api_key|default(\"YOUR_API_KEY\") }}",
+			"prettyprint python up",
+			"prettyprint ruby",
+			"prettyprint python up",
+			"",
+			"{% extends 'layout-app.html' %}",
+			"$1",
+			"{% set active_page = \"\" %}",
+			"{% set active_page = \"\"}\n{% set meta_title =",
+			"\" %}",
+			"{% set meta_title = \"",
+			"{% set meta_title = \"\" %}",
+			"/static/img/investors/",
+			"",
+			"{% block meta_title %}{% endblock meta_title %}\n{% block wrap_style_id %}",
+			"{% endblock wrap_style_id %}",
+			"{% block wrap_style_id %}",
+			"Deploy Now",
+			"from indico.",
+			"from indico import ",
+			"from lq import ",
+			"lq.",
+			"Allow from all",
+			"Require all granted",
+			"user.first_name",
+			"Document",
+			"licenseController",
+			"app.",
+			"/static/angular/ui-bootstrap-tpls-0.10.0.min.js",
+			"form",
+			"profile",
+			"btn-info",
+			"h1.page-title",
+			"project.sitdown",
+			"angular-1.2.16",
+			"/static/img/flat/flat-icons/svg/",
+			"received\n        stripped-signature\n        from\n        attachment-count\n        timestamp\n        signature\n        to\n        message-headers\n        stripped-text\n        content-id-map\n        recipient\n        subject\n        from\n        sender\n        subject\n        x-mailgun-variables\n        sender\n        user-agent\n        stripped-html\n        token\n        body-html\n        references\n        in-reply-to\n        date\n        message-id\n        content-type\n        body-plain\n        mime-version",
+			"col-md-12",
+			"col-md-11",
+			"col-md-10",
+			"col-md-9",
+			"col-md-8",
+			"col-md-7",
+			"col-md-6",
+			"col-md-5",
+			"col-md-4",
+			"col-md-3",
+			"col-md-1",
+			"col-md-2",
+			"registrar",
+			"datetime.datetime.utcnow",
+			"angular-1.2.14",
+			"new_project.index",
+			"new_project.landing",
+			"experts.landing",
+			"FFF",
+			" ",
+			"////////////////////////////////////////////////////////////////////////\n//....................................................................//\n//...................~+=~...................++I+......................//\n//...................????~~...............++IIII:.....................//\n//..................~???I?~~.............++?7III+.....................//\n//.................~??I?II=~~...........=++I7I7II=....................//\n//.................~???III?~~~.........+++I777III+....................//\n//................,???IIIII=~~~.......++++77777III~...................//\n//................~????IIII=~~~~.....=++++7777IIII+...................//\n//................~???II??~~~~~~+++++++++++III7III+...................//\n//................~???=~~~~~~~~~+++++++++++++++III?...................//\n//................~??~~~~~~~~~~=++++++++++++++++II?...................//\n//................~?~~~~~~~~~~~~~++++++++++++++++I+...................//\n//................~~~~~~~7777777~++++7777777+++++=+...................//\n//................~~~~~77777777777+77777777777=++++...................//\n//................~~~=77777=777777777777I=77777++++...................//\n//...............~~~~77777.7.=777777777~7+.77777++++..................//\n//...............~~~~77777...=777777777:...77777++++..................//\n//..............~~~~~777777777777777777777777777++++=.................//\n//..............~~~~~~7777777777777777777777777+=++++.................//\n//.............:~~777777777777777777777777777777777?+.................//\n//.............~~7 7777777777777+....777777777777777+.................//\n//.............~7  77777777+777:......77777777777777I.................//\n//.............= 77777777777.777.....:77I777777777777.................//\n//.............+.777777777777..7777777?..777777777777.................//\n//...................I7777777.??....:I?.777777777I?I..................//\n//......................~77777?I??++??7.7777~.........................//\n//......................~~~~~~?IIIIIIII~~~~~~.........................//\n//.....................IIIIII?I?IIIIIII+77777I........................//\n//.................777 7IIIIIII??7IIII777777777777,...................//\n//..............I7777777777IIIII77I777777777777777777.................//\n//.............777 777777777III77777777777777777777777................//\n//.............77  777777777II777777777777777777777 777...............//\n//.............777 777777777I7777777777777777777777777?...............//\n//.............7777 777? 7 I.............?777?77777777................//\n//...............????I????:...............:????I????=.................//\n//.................~???:.....................,I??~....................//\n//....................................................................//\n////////////////////////////////////////////////////////////////////////",
+			"Pub",
+			"pubSitdown",
+			"publishedSitdown",
+			"devLeadForm",
+			"Devapp"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/nick/Sites/dev/straply"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/nick/Sites/dev/straply/straply/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1582,
+								1582
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/nick/Sites/dev/straply/straply/frontend/templates/layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1068,
+								1068
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nick/Sites/dev/straply/straply/users/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nick/Sites/dev/straply/straply/frontend/templates/security/forgot_password.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 978,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/nick/Sites/dev/straply/straply/frontend/templates/preferences.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "flashes.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/nick/Sites/dev/straply/straply/frontend/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1287,
+								1287
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "/Users/nick/Sites/dev/straply/straply/frontend/static/css/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/nick/Sites/dev/straply/straply/frontend/static/bower/bootstrap/less/responsive-utilities.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/nick/Sites/dev/straply/straply/frontend/static/js/straply.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 72.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nav",
+				"straply/frontend/templates/includes/navbar.html"
+			],
+			[
+				"set",
+				"straply/settings.py"
+			],
+			[
+				"index",
+				"straply/frontend/templates/index.html"
+			],
+			[
+				"flash",
+				"straply/frontend/templates/includes/flashes.html"
+			],
+			[
+				"responsive",
+				"straply/frontend/static/bower/bootstrap/less/responsive-utilities.less"
+			],
+			[
+				"pref",
+				"straply/frontend/templates/preferences.html"
+			],
+			[
+				"password",
+				"straply/frontend/templates/security/forgot_password.html"
+			],
+			[
+				"user/forms",
+				"straply/users/forms.py"
+			],
+			[
+				"layout",
+				"straply/frontend/templates/layout.html"
+			],
+			[
+				"app.",
+				"straply/frontend/app.py"
+			],
+			[
+				"front/init",
+				"straply/frontend/__init__.py"
+			],
+			[
+				"vari",
+				"straply/frontend/static/bower/bootstrap/less/variables.less"
+			],
+			[
+				"helpers.less",
+				"straply/frontend/static/css/helpers.less"
+			],
+			[
+				"helpers",
+				"straply/helpers.py"
+			],
+			[
+				"macro/form",
+				"straply/frontend/templates/macros/forms.html"
+			],
+			[
+				".less",
+				"straply/frontend/static/bower/bootstrap/less/theme.less"
+			],
+			[
+				"style",
+				"straply/frontend/static/css/styles.less"
+			],
+			[
+				"navbar",
+				"straply/frontend/templates/includes/navbar.html"
+			],
+			[
+				"reste",
+				"straply/frontend/templates/security/reset_password.html"
+			],
+			[
+				"regist",
+				"straply/frontend/templates/security/register_user.html"
+			],
+			[
+				"login",
+				"straply/frontend/templates/security/login_user.html"
+			],
+			[
+				"create",
+				"create_database.sh"
+			],
+			[
+				"settings",
+				"straply/settings.py.example"
+			],
+			[
+				"dash",
+				"straply/frontend/templates/dashboard.html"
+			],
+			[
+				"sett",
+				"straply/settings.py"
+			],
+			[
+				"app",
+				"straply/frontend/app.py"
+			],
+			[
+				"user/mod",
+				"straply/users/models.py"
+			],
+			[
+				"layou",
+				"straply/frontend/templates/layout.html"
+			],
+			[
+				"get-fa",
+				"straply/frontend/templates/get-fax-number.html"
+			],
+			[
+				"setti",
+				"straply/settings.py"
+			],
+			[
+				"faxy.",
+				"straply/frontend/static/js/faxy.js"
+			],
+			[
+				"api/user",
+				"straply/api/users.py"
+			],
+			[
+				"regi",
+				"straply/frontend/templates/security/register_user.html"
+			],
+			[
+				"pric",
+				"straply/frontend/templates/pricing.html"
+			],
+			[
+				"security/login",
+				"straply/frontend/templates/security/login_user.html"
+			],
+			[
+				"fax/mode",
+				"straply/faxes/models.py"
+			],
+			[
+				"api/init",
+				"straply/api/__init__.py"
+			],
+			[
+				"frontend/init",
+				"straply/frontend/__init__.py"
+			],
+			[
+				"fax/form",
+				"straply/faxes/forms.py"
+			],
+			[
+				"api/fax",
+				"straply/api/faxes.py"
+			],
+			[
+				"fax/mod",
+				"straply/faxes/models.py"
+			],
+			[
+				"core",
+				"straply/core.py"
+			],
+			[
+				"forms",
+				"straply/forms.py"
+			],
+			[
+				"models",
+				"straply/models.py"
+			],
+			[
+				"user/form",
+				"straply/users/forms.py"
+			],
+			[
+				"navb",
+				"straply/frontend/templates/includes/navbar.html"
+			],
+			[
+				"pricing",
+				"straply/frontend/templates/pricing.html"
+			],
+			[
+				"front/inde",
+				"straply/frontend/templates/index.html"
+			],
+			[
+				"app.py",
+				"straply/frontend/app.py"
+			],
+			[
+				"scripts",
+				"straply/frontend/static/js/scripts.js"
+			],
+			[
+				"scripts.js",
+				"straply/frontend/static/js/scripts.js"
+			],
+			[
+				"frontend/inde",
+				"venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html"
+			],
+			[
+				"settings.py",
+				"straply/settings.py"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"frontend/nav",
+				"straply/frontend/templates/includes/navbar.html"
+			],
+			[
+				"frontend/index",
+				"venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html"
+			],
+			[
+				"setting",
+				"indico/settings.py"
+			],
+			[
+				"dashboard/ind",
+				"indico/frontend/templates/dashboard/index.html"
+			],
+			[
+				"incld",
+				"indico/frontend/templates/includes/demo/include-demo.html"
+			],
+			[
+				"demo",
+				"indico/frontend/templates/demo.html"
+			],
+			[
+				"socia",
+				"indico/frontend/social.py"
+			],
+			[
+				"twitt",
+				"indico/frontend/templates/social/twitter-analysis.html"
+			],
+			[
+				"fact",
+				"indico/factory.py"
+			],
+			[
+				"helper",
+				"indico/helpers.py"
+			],
+			[
+				"lay",
+				"indico/frontend/templates/layout.html"
+			],
+			[
+				"api/us",
+				"indico/api/users.py"
+			],
+			[
+				"help",
+				"indico/helpers.py"
+			],
+			[
+				"site.sc",
+				"indico/frontend/static/sass/site/site.scss"
+			],
+			[
+				"app.sc",
+				"indico/frontend/static/sass/app/_app.scss"
+			],
+			[
+				"_page",
+				"indico/frontend/static/sass/site/_pages.scss"
+			],
+			[
+				"tweet",
+				"indico/frontend/static/js/tweets/tweetController.js"
+			],
+			[
+				"pages",
+				"indico/frontend/static/sass/site/_pages.scss"
+			],
+			[
+				"site",
+				"indico/frontend/static/sass/site/site.scss"
+			],
+			[
+				"analy",
+				"indico/frontend/templates/social/twitter-analysis.html"
+			],
+			[
+				"_pag",
+				"indico/frontend/static/sass/site/_pages.scss"
+			],
+			[
+				"social-demo",
+				"indico/frontend/static/sass/app/social-demo.scss"
+			],
+			[
+				"social/",
+				"indico/frontend/templates/social/twitter.html"
+			],
+			[
+				"soc",
+				"indico/frontend/social.py"
+			],
+			[
+				"control",
+				"indico/frontend/static/js/homepageControllers.js"
+			],
+			[
+				"social.",
+				"indico/frontend/social.py"
+			],
+			[
+				"sidebar",
+				"indico/frontend/templates/includes/sidebar.html"
+			],
+			[
+				"settin",
+				"indico/settings.py"
+			],
+			[
+				"footer-app",
+				"indico/frontend/static/js/footer-app.js"
+			],
+			[
+				"includes/fl",
+				"indico/frontend/templates/includes/flashes.html"
+			],
+			[
+				"layout-app",
+				"indico/frontend/templates/layout-app.html"
+			],
+			[
+				"private",
+				"indico/frontend/templates/dashboard/admin/private-cloud.html"
+			],
+			[
+				"templa",
+				"indico/frontend/templates/template.html"
+			],
+			[
+				"private-",
+				"indico/frontend/templates/private-cloud.html"
+			],
+			[
+				"nickwoo",
+				"NickWoodhams.json"
+			],
+			[
+				"home",
+				"indico/frontend/templates/social/home-timeline.md"
+			],
+			[
+				"4f",
+				"alembic/versions/4ff088dec81c_.py"
+			],
+			[
+				"3ba2f064446",
+				"alembic/versions/3ba2f0644467_.py"
+			],
+			[
+				"user/",
+				"indico/users/models.py"
+			],
+			[
+				"dashbard.py",
+				"indico/frontend/dashboard.py"
+			],
+			[
+				"controller",
+				"indico/frontend/static/js/homepageControllers.js"
+			],
+			[
+				"admin/index",
+				"indico/frontend/templates/dashboard/admin/index.html"
+			],
+			[
+				"graphs",
+				"indico/frontend/templates/dashboard/admin/graphs.html"
+			],
+			[
+				"das/admin/gr",
+				"indico/frontend/templates/dashboard/admin/graphs.html"
+			],
+			[
+				"dash/admin/",
+				"indico/frontend/templates/dashboard/admin/index.html"
+			],
+			[
+				"dashb",
+				"indico/frontend/dashboard.py"
+			],
+			[
+				"3bed93e02247",
+				"alembic/versions/3bed93e02247_.py"
+			],
+			[
+				"alembic/vers",
+				"alembic/versions/553a7bec9f86_.py"
+			],
+			[
+				"user/model",
+				"indico/users/models.py"
+			],
+			[
+				"gallery",
+				"indico/frontend/gallery.py"
+			],
+			[
+				"nickwood",
+				"NickWoodhams.json"
+			],
+			[
+				"user/mode",
+				"indico/users/models.py"
+			],
+			[
+				"care",
+				"indico/frontend/templates/careers.html"
+			],
+			[
+				"contact",
+				"indico/frontend/templates/contact.html"
+			],
+			[
+				"proxim",
+				"indico/frontend/static/css/site/compiled/proxima-nova.css"
+			],
+			[
+				"pages.",
+				"indico/frontend/static/sass/site/_pages.scss"
+			],
+			[
+				"combined",
+				"indico/frontend/static/sass/site/combined.scss"
+			],
+			[
+				"demo.js",
+				"indico/frontend/static/js/demo.js"
+			],
+			[
+				"senti",
+				"indico/frontend/templates/includes/demo/sentiment-code.html"
+			],
+			[
+				"texttag",
+				"indico/frontend/templates/includes/demo/texttags-code.html"
+			],
+			[
+				"include",
+				"indico/frontend/templates/includes/demo/include-demo.html"
+			],
+			[
+				"-code",
+				"indico/frontend/templates/includes/demo/language-code.html"
+			],
+			[
+				"sent",
+				"indico/frontend/templates/includes/demo/sentiment-code.html"
+			],
+			[
+				"footer",
+				"indico/frontend/static/js/footer.js"
+			],
+			[
+				"lang-list",
+				"indico/frontend/templates/includes/demo/lang-list.html"
+			],
+			[
+				"include-d",
+				"indico/frontend/templates/includes/demo/include-demo.html"
+			],
+			[
+				"quic",
+				"indico/frontend/templates/dashboard/quickstart.html"
+			],
+			[
+				"requ",
+				"requirements.txt"
+			],
+			[
+				"dashboard/amin",
+				"indico/frontend/templates/dashboard/admin/index.html"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"sideb",
+				"indico/frontend/templates/includes/sidebar.html"
+			],
+			[
+				"theme.",
+				"indico/frontend/static/js/theme.js"
+			],
+			[
+				"_ap",
+				"indico/frontend/static/sass/app/_app.scss"
+			],
+			[
+				"dash/admin",
+				"indico/frontend/templates/dashboard/admin/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
