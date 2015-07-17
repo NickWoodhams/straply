@@ -1,11 +1,22 @@
 
 @import "helpers.less";
+@import "colors.less";
 
 @grey: #F0F0F0;
 @background: #E9E9E9;
 
 html, body {
     height: 100%;
+    font-family: 'Open Sans', 'lucida grande', 'Segoe UI', arial, verdana, 'lucida sans unicode', tahoma, sans-serif;
+}
+h1 {
+    font-weight: normal;
+}
+
+.lead {
+    font-weight: 200;
+}
+h1, h2, h3, h4 {
     font-family: 'proxima-nova-400', 'Open Sans', 'Gill Sans MT', 'Gill Sans', Corbel,Arial,sans-serif;
 }
 
@@ -47,26 +58,32 @@ body {
 
 .security {
     min-height: 100%;
-    background: @background;
+    // background: @background;
     h1 {
         margin: 0;
         padding: 0 0 20px;
         font-size: 25px;
     }
+    .checkbox {
+        input[type=checkbox] {
+            margin-top: 3px;
+        }
+        display: inline;
+    }
     .logo-group {
         width: 100%;
         text-align: center;
-        margin-top: 40px;
+        margin-top: 50px;
         a {
             display: block;
             margin: 0 auto;
         }
         img {
-            max-width: 125px;
+            max-width: 100px;
         }
     }
     .login-form {
-        background: @grey;
+        // background: @grey;
         padding: 20px;
         border-radius: 5px;
         border-width: 1px 1px 3px 1px;

@@ -8,7 +8,7 @@
         </div>
         <div class="row">
             <div class="login-form col-md-4 col-md-offset-4 col-sm-6 col-xs-12">
-                <h1>Register</h1>
+                <h1 class="">Register</h1>
                 <form method="POST" name="register_user_form">
                   {{ register_user_form.hidden_tag() }}
                   {{ form_field(register_user_form.email) }}
@@ -16,7 +16,7 @@
                   {% if register_user_form.password_confirm %}
                     {{ form_field(register_user_form.password_confirm) }}
                   {% endif %}
-                  {{ render_field(register_user_form.submit, class="btn btn-primary") }}
+                  {{ render_field(register_user_form.submit, class="btn btn-primary btn-lg btn-block") }}
                 </form>
                 <div class="padding-top-lg">
                     Already have an account? <a class="" href="{{ url_for_security('login') }}">Login here</a>.
