@@ -22,6 +22,10 @@ from ..models import Role, User
 from ..helpers import gravatar, format_currency, nl2br, firstname, pretty_date, \
     current_date
 
+# Disable the double password confirm on the user registration form
+from flask_security.forms import PasswordConfirmFormMixin
+PasswordConfirmFormMixin.password_confirm = False
+
 
 def create_app(settings_override=None):
     """Returns the straply dashboard application instance"""

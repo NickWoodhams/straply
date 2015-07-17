@@ -71,8 +71,8 @@
 {%- endmacro -%}
 
 
-{%- macro form_button(button_title="Submit", button_class="") -%}
-    <button type="submit" class="btn {{ button_class }}">{{ button_title|safe }}</button>
+{%- macro form_button(button_title="Submit", class="") -%}
+    <button type="submit" class="{{ class }}">{{ button_title|safe }}</button>
 {%- endmacro -%}
 
 

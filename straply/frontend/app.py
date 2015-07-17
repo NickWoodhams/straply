@@ -25,6 +25,12 @@ def index():
     return render_template('index.html')
 
 
+@route(bp, '/dashboard')
+def dashboard():
+    """Returns the dashboard."""
+    return render_template('dashboard.html')
+
+
 @route(bp, '/preferences', methods=['GET', 'POST'])
 @login_required
 def preferences():

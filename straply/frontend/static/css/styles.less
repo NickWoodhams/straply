@@ -1,5 +1,39 @@
+
+@import "helpers.less";
+
+@grey: #F0F0F0;
+@background: #E9E9E9;
+
+html, body {
+    height: 100%;
+    font-family: 'proxima-nova-400', 'Open Sans', 'Gill Sans MT', 'Gill Sans', Corbel,Arial,sans-serif;
+}
+
+#wrapper {
+    min-height: 100%;
+    margin: 0 auto -60px;
+}
+
+#footer, #pusher {
+    height: 60px;
+}
+
+#footer {
+    a { padding: 5px 10px; }
+}
+
 body {
 	min-height: 800px;
+}
+
+.flash {
+    margin: 0;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 970px;
+    }
 }
 
 #remember-container label {
@@ -11,3 +45,33 @@ body {
     }
 }
 
+.security {
+    min-height: 100%;
+    background: @background;
+    h1 {
+        margin: 0;
+        padding: 0 0 20px;
+        font-size: 25px;
+    }
+    .logo-group {
+        width: 100%;
+        text-align: center;
+        margin-top: 40px;
+        a {
+            display: block;
+            margin: 0 auto;
+        }
+        img {
+            max-width: 125px;
+        }
+    }
+    .login-form {
+        background: @grey;
+        padding: 20px;
+        border-radius: 5px;
+        border-width: 1px 1px 3px 1px;
+        border-color: #DEDEDE;
+        border-style: solid;
+        margin-top: 40px;
+    }
+}

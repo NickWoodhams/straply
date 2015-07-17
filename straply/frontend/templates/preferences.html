@@ -1,12 +1,14 @@
 {% extends 'layout.html' %}
 {% block body %}
 	<div class="container">
-		<div class="form-container">
-			<h1>Account Preferences</h1>
-			{{ form_fields(form, button="Save", button_class="btn btn-primary") }}
-			<hr>
-			<a class="" href="/change">Change password</a>
-		</div>
+		<div class="row">
+            <div class="col-md-6 col-sm-8 col-xs-12">
+                <h1>Account Preferences</h1>
+                {{ form_fields(form, button="Save", button_class="btn btn-primary") }}
+                <hr>
+                <a class="" href="/change">Change password</a>
+            </div>
+        </div>
 
 	</div>
 {% endblock %}

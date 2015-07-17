@@ -19,11 +19,11 @@ userForm = model_form(User, db.session)
 
 
 class userSettingsForm(Form):
-    name = TextField('Full Name', validators=[Required()])
+    name = TextField('Full Name', validators=[Optional()])
     email = TextField('Email', validators=[Email(), Required()])
     location = TextField(
         'Where are you located?',
-        validators=[Required(), Length(min=-1, max=255)],
+        validators=[Optional(), Length(min=-1, max=255)],
         description='Ex. San Francisco, California')
 
 
