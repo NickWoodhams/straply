@@ -6,7 +6,9 @@
     Main views
 """
 
-from flask import Blueprint, render_template, flash, redirect, url_for
+from pprint import pprint
+
+from flask import Blueprint, render_template, flash, redirect, url_for, request
 from flask_security import login_required, current_user, login_user, logout_user
 
 from . import route
@@ -22,13 +24,26 @@ bp = Blueprint('main', __name__)
 @route(bp, '/')
 def index():
     """Returns the index."""
+    pprint(vars(request))
     return render_template('index.html')
+
+
+@route(bp, '/about')
+def about():
+    """Returns the about."""
+    return render_template('about.html')
 
 
 @route(bp, '/dashboard')
 def dashboard():
     """Returns the dashboard."""
     return render_template('dashboard.html')
+
+
+@route(bp, '/theme')
+def theme():
+    """Returns the theme."""
+    return render_template('theme.html')
 
 
 @route(bp, '/preferences', methods=['GET', 'POST'])

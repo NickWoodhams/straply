@@ -1,6 +1,6 @@
 {% from "macros/nav.html" import nav_li_for %}
 <!-- Static navbar -->
-<div class="navbar navbar-default navbar-static-top">
+<div class="navbar navbar-inverse navbar-static-top">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -13,6 +13,7 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 {{ nav_li_for('main.index', 'Home') }}
+                {{ nav_li_for('main.about', 'About') }}
             </ul>
 
             {% if current_user.is_anonymous() %}

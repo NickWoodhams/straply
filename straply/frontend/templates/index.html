@@ -1,11 +1,18 @@
 {% extends 'layout.html' %}
-{% block body %}
-	<div class="container">
-		<h1>Headline that rocks!</h1>
+{% set active_page = "index" %}
+{% set meta_title = "" %}
 
-		<p class="lead">
-			Leadline that rocks!
-		</p>
+{% block body %}
+    <div class="jumbotron">
+        <div class="container">
+		  <h1>Headline that rocks!</h1>
+    		<p class="lead">
+    			Leadline that rocks!
+    		</p>
+
+
+
+        </div>
 	</div>
 {% endblock %}
 
