@@ -24,7 +24,6 @@ bp = Blueprint('main', __name__)
 @route(bp, '/')
 def index():
     """Returns the index."""
-    pprint(vars(request))
     return render_template('index.html')
 
 
