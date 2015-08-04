@@ -1,0 +1,26 @@
+{
+  "name": "straply",
+  "version": "1.0",
+  "homepage": "https://github.com/NickWoodhams/straply",
+  "authors": [
+    "Nick Woodhams <nicholas.woodhams@gmail.com>"
+  ],
+  "description": "A fast app template using Flask and Bower",
+  "keywords": [
+    "straply"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "straply/frontend/static/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "ionicons": "~2.0.0",
+    "select2": "~3.5.2"
+  }
+}
