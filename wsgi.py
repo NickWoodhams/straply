@@ -26,6 +26,7 @@ restless_app = restless.create_app()
 def setup_app():
     from straply.models import User, Role
     from straply.core import db
+    db.create_all()
     if not Role.query.filter_by(name="admin").count():
         role = Role(name="admin")
         db.session.add(role)

@@ -16,7 +16,7 @@
                 {{ nav_li_for('main.about', 'About') }}
             </ul>
 
-            {% if current_user.is_anonymous() %}
+            {% if current_user.is_anonymous %}
                 <a class="btn btn-default navbar-btn pull-right" href="{{ url_for('security.login') }}">Login</a>
             {% else %}
                 <ul class="nav navbar-nav pull-right">

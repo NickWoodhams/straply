@@ -46,7 +46,7 @@ class MyHomeView(AdminIndexView):
 
     @expose('/')
     def index(self):
-        # if current_user.is_anonymous():
+        # if current_user.is_anonymous:
         #     return redirect('/login?next=%2fadmin')
         # elif not current_user.has_role('admin'):
         #     return abort(401)
