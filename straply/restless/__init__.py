@@ -6,12 +6,12 @@
 """
 
 import hashlib
+import flask_restless
 
 from pprint import pprint
 
 from flask import request
-from flask.ext import restless
-from flask.ext.restless import ProcessingException
+from flask_restless import ProcessingException
 from flask_security import login_required, current_user, login_user, \
     logout_user
 from raven.contrib.flask import Sentry
@@ -32,7 +32,7 @@ def create_app(settings_override=None, register_security_blueprint=False):
     # Start Sentry
     Sentry(app)
 
-    manager = restless.APIManager(app, flask_sqlalchemy_db=db)
+    manager = flask_restless.APIManager(app, flask_sqlalchemy_db=db)
     manager.create_api(
         User,
         url_prefix='/api/1.0',

@@ -6,10 +6,10 @@ from datetime import date, timedelta
 
 from flask import make_response, request, current_app, flash, redirect, \
     url_for, render_template, abort
-from flask.ext.admin import Admin, BaseView, AdminIndexView, expose
-from flask.ext.admin.contrib.sqla import ModelView
-from flask.ext.admin.contrib.sqla.form import InlineModelConverter, get_form
-from flask.ext.admin.model.template import macro
+from flask_admin import Admin, BaseView, AdminIndexView, expose
+from flask_admin.contrib.sqla import ModelView
+from flask_admin.contrib.sqla.form import InlineModelConverter, get_form
+from flask_admin.model.template import macro
 from flask_security import current_user
 from sqlalchemy.sql import func
 from sqlalchemy.orm import object_mapper

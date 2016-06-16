@@ -8,10 +8,10 @@
 
 from functools import wraps
 from flask import render_template
-from flask.ext.logging import Filter
+from flask_logging import Filter
 
-from flask.ext.admin import Admin, BaseView, AdminIndexView, expose
-from flask.ext.admin.contrib.sqla import ModelView
+from flask_admin import Admin, BaseView, AdminIndexView, expose
+from flask_admin.contrib.sqla import ModelView
 from ..admin.views import AdminModel, UserView, MyHomeView
 
 from raven.contrib.flask import Sentry
