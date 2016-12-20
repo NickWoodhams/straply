@@ -13,6 +13,10 @@ Opinionated Flask and Bootstrap 3 Starter App
 - Bower
 - Much more
 
+### Pull up to date repositories
+
+git submodule update --recursive
+
 ### Setup
 
 1. Install requirements.txt
