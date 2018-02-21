@@ -7,7 +7,7 @@
             <a href="/"><img src="/static/img/hipster-inc.png" alt=""></a>
         </div>
         <div class="row">
-            <div class="login-form col-md-4 col-md-offset-4 col-sm-6 col-xs-12">
+            <div class="login-form col-md-4 offset-md-4 col-sm-6 col-xs-12">
                 <h1 class="">Register</h1>
                 <form method="POST" name="register_user_form">
                   {{ register_user_form.hidden_tag() }}
@@ -18,10 +18,11 @@
                   {% endif %}
                   {{ render_field(register_user_form.submit, class="btn btn-primary btn-lg btn-block") }}
                 </form>
-                <div class="padding-top-lg">
-                    Already have an account? <a class="" href="{{ url_for_security('login') }}">Login here</a>.
-                </div>
             </div>
+        </div>
+        <div class="padding-top-lg centered">
+          Already have an account?<br>
+          <a class="" href="{{ url_for_security('login') }}">Login Here</a>
         </div>
     </div>
 </div>

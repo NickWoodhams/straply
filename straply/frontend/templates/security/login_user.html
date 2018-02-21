@@ -7,24 +7,24 @@
             <a href="/"><img src="/static/img/hipster-inc.png" alt=""></a>
         </div>
         <div class="row">
-                <div class="login-form col-md-4 col-md-offset-4 col-sm-6 col-xs-12">
-                    <h1 class="">Login</h1>
-                    <form action="{{ url_for_security('login') }}" method="POST" name="login_user_form">
-                        {{ login_user_form.hidden_tag() }}
-                        {{ form_field(login_user_form.email, placeholder="Email", disable_label=True) }}
-                        {{ form_field(login_user_form.password, placeholder="Password", disable_label=True) }}
-                        <div class="small">
-                            <a href="{{ url_for_security('forgot_password') }}" class="pull-right">Forgot password?</a>
-                            {{ form_field(login_user_form.remember) }}
-                        </div>
-                        <input class="btn btn-primary btn-block btn-lg" id="submit" name="submit" type="submit" value="Login">
-                        {{ form_field(login_user_form.next) }}
-                    </form>
-                    <div class="padding-top-lg">
-                        Don't have an account? <a class="" href="{{ url_for_security('register') }}">Register Now!</a>
+            <div class="login-form col-md-4 offset-md-4 col-sm-6 col-xs-12">
+                <h1 class="">Login</h1>
+                <form action="{{ url_for_security('login') }}" method="POST" name="login_user_form">
+                    {{ login_user_form.hidden_tag() }}
+                    {{ form_field(login_user_form.email, placeholder="Email", disable_label=True) }}
+                    {{ form_field(login_user_form.password, placeholder="Password", disable_label=True) }}
+                    <div class="small">
+                        <a href="{{ url_for_security('forgot_password') }}" class="float-right">Forgot password?</a>
+                        {{ form_field(login_user_form.remember) }}
                     </div>
-                </div>
+                    <input class="btn btn-primary btn-block btn-lg" id="submit" name="submit" type="submit" value="Login">
+                    {{ form_field(login_user_form.next) }}
+                </form>
             </div>
+        </div>
+        <div class="padding-top-lg centered">
+            Don't have an account? <a class="" href="{{ url_for_security('register') }}">Register Now!</a>
+        </div>
     </div>
 </div>
 {% endblock wrapper %}

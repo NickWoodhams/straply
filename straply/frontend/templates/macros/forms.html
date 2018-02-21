@@ -8,16 +8,16 @@
 
 
 {%- macro form_field_description(field) -%}
-    {% if field.description %}
+    {% if field.description and field.name != 'password' %}
         <span class="help-block">{{ field.description }}</span>
     {% endif %}
 {%- endmacro -%}
 
 
-{%- macro form_field_errors(field) -%}
+{%- macro form_field_errors(field) -%} 
     {% if field.errors %}
         {%- for error in field.errors -%}
-        <p class="help-block">{{ error }}</p>
+        <p class="invalid-feedback">{{ error }}</p>
         {%- endfor -%}
     {% endif %}
 {%- endmacro -%}
@@ -35,10 +35,10 @@
 
 
 {%- macro form_field_checkbox(field) -%}
-    <div class="checkbox" id="{{field.name}}-container">
-        <label>
+    <div class="form-check" id="{{field.name}}-container">
+        <label class="form-check-label">
             {{- field.label.text -}}
-            {{ field(**kwargs) }}
+            {{ field(class="form-check-input", **kwargs) }}
             {{ form_field_description(field) }}
             {{ form_field_errors(field) }}
         </label>
@@ -60,7 +60,6 @@
 
 
 {%- macro input_group(field, addon_before=False, addon_after=False) -%}
-    <div class="form-group{% if field.errors %} has-error{% endif %}">
         {{ form_field_label(field) }}
         {{ input_group_bare(field, addon_before, addon_after) }}
         {% if field.label.text|length %}
@@ -90,11 +89,21 @@
                 {% if not disable_label %}
                     {{ form_field_label(field) }}
                 {% endif %}
+                
                 {% if field.type == 'RadioField' %}
-                    {{ form_field_radio(field(class='radio-group', **kwargs)) }}
+                    {% if field.errors %}
+                        {{ form_field_radio(field(class='radio-group is-invalid', **kwargs)) }}
+                    {% else %}
+                        {{ form_field_radio(field(class='radio-group', **kwargs)) }}
+                    {% endif %}
                 {% else %}
-                    {{ field(class="form-control", **kwargs) }}
+                    {% if field.errors %}
+                        {{ field(class="form-control is-invalid", **kwargs) }}
+                    {% else %}
+                        {{ field(class="form-control", **kwargs) }}
+                    {% endif %}
                 {% endif %}
+
                 {% if field.label.text|length %}
                     {{ form_field_description(field) }}
                 {% endif %}
